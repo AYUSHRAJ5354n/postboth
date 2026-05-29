@@ -1,6 +1,5 @@
-python-telegram-bot
-pymongo
-flask
+python-telegram-bot==20.8
+pymongo[srv]
 requests
-dnspython
+flask
 gunicorn
